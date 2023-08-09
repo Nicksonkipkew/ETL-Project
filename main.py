@@ -3,7 +3,7 @@ from collections import defaultdict
 import pandas as pd
 
 
-#Step 1: Extraction
+#Step 1: Extraction of data
 
 # Fetch NBA team data
 teams_url = 'https://www.balldontlie.io/api/v1/teams'
